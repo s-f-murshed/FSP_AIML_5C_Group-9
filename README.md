@@ -8,7 +8,7 @@ An IoT-driven automated period bell and digital door display system simulated on
 | Name | Roll No.| 
 | :--- | :--- |
 | Suroj Halder | 13030825164|
-| Sufi Farhan Murshed | 1330825163|
+| Sufi Farhan Murshed | 13030825163|
 | Sudip Majumdar| 13030825162|
 | Suvadeep Mandal| 13030825165|
 | Sayan Saha| 13030825166|
