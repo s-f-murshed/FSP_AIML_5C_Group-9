@@ -31,9 +31,9 @@ Run the full simulation directly in your browser:
 ---
 
 ## 📂 Repository Contents
-- `firmware/sketch.ino`: Main ESP32 application logic, NTP synchronization, and slot parser.
-- `firmware/diagram.json`: Circuit wiring layout and component positions for Wokwi.
-- `firmware/libraries.txt`: Adafruit GFX and SSD1306 library declarations.
+- `code.ino`: Main ESP32 application logic, NTP synchronization, and slot parser.
+- `diagram.json`: Circuit wiring layout and component positions for Wokwi.
+- `library.txt`: Adafruit GFX and SSD1306 library declarations.
 
 ---
 
