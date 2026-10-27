@@ -4,6 +4,17 @@ An IoT-driven automated period bell and digital door display system simulated on
 
 ---
 
+## Team Members
+| Name | Roll No.| 
+| :--- | :--- |
+| Suroj Halder | 13030825164|
+| Sufi Farhan Murshed | 1330825163|
+| Sudip Majumdar| 13030825162|
+| Suvadeep Mandal| 13030825165|
+| Sayan Saha| 13030825166|
+| Abhinav Kumar| 13030823002|
+
+
 ## 📌 Project Overview
 Manual college bells are prone to timing drifts and human delays, while door schedules are typically printed on static paper. This project solves both issues:
 - **Centralized Timekeeping:** Uses standard NTP (Pool.ntp.org) over Wi-Fi, eliminating manual clock drift.
@@ -36,5 +47,3 @@ Run the full simulation directly in your browser:
 - `library.txt`: Adafruit GFX and SSD1306 library declarations.
 
 ---
-
-## ⚙️ How It Works
